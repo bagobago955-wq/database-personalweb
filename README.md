@@ -4,7 +4,7 @@ Repositori ini berisi rancangan arsitektur *database* relasional menggunakan Pos
 
 ---
 
-## 🚀 Navigasi File
+## 🚀 File SQL script
 * **[Lihat Script Database (setup.sql)](setup.sql)**: Berisi seluruh perintah DDL (pembuatan tabel) dan DML (input sample data).
 
 ---
