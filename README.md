@@ -4,6 +4,11 @@ Repositori ini berisi rancangan arsitektur *database* relasional menggunakan Pos
 
 ---
 
+## 🚀 Navigasi File
+* **[Lihat Script Database (setup.sql)](setup.sql)**: Berisi seluruh perintah DDL (pembuatan tabel) dan DML (input sample data).
+
+---
+
 ## 1. Entity Relationship Diagram (ERD)
 Berikut adalah visualisasi ERD yang menunjukkan relasi antar tabel. Terdapat relasi **One-to-Many** antara `users` dan `projects`, serta relasi **Many-to-Many** antara `projects` dan `technologies` yang dijembatani oleh tabel *pivot* `project_technologies`.
 
